@@ -1,0 +1,17 @@
+@import 'variables';
+@import 'layout';
+@import 'components';
+
+/* Responsive */
+@media (min-width: 768px) {
+  .articles {
+    flex-direction: row;
+  }
+}
+
+@media (min-width: 1024px) {
+  main {
+    flex-direction: column;
+    grid-template-columns: 1fr 3fr;
+  }
+}

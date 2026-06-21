@@ -1,0 +1,92 @@
+body {
+  font-family: $font-main;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  min-height: 100vh;
+  margin: 0;
+}
+
+/* HEADER */
+header {
+  background: $color-primary;
+  color: white;
+  padding: $space-md;
+
+  nav {
+    ul {
+      display: flex;
+      gap: $space-md;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    a {
+      color: white;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+/* MAIN */
+main {
+  padding: $space-md;
+}
+
+/* FOOTER */
+footer {
+  background: $color-secondary;
+  color: white;
+  padding: $space-md;
+  text-align: center;
+}
+
+/* OVER MIJ GRID STRUKTUUR */
+.overmij {
+  width: 90%;
+  max-width: 1000px;
+  margin: 40px auto;
+  
+  // Dit zorgt voor twee gelijke kolommen en lost het smalle probleem op!
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px; 
+  align-items: start;
+
+  p {
+    width: 100%;
+    line-height: 1.7;
+    color: #444;
+  }
+
+  img {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: $space-md;
+  }
+}
+
+/* MOBIEL & TABLET RESPONSIVITEIT */
+@media (max-width: 767px) {
+  .intro img {
+    max-width: 380px;
+  }
+
+  nav ul {
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+  }
+
+  // Zet de kolommen onder elkaar op mobiel
+  .overmij {
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+}
