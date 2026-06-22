@@ -66,3 +66,18 @@ article img {
   display: block;
   margin: 10px auto;
 }
+
+.sitemap-list {
+  line-height: 2;
+  margin-top: $space-md;
+
+  a {
+    color: $color-primary;
+    font-weight: bold;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}

@@ -1,0 +1,13 @@
+# ----------------------------------------------------------------------
+# SEO & Server Instellingen voor Portfolio Nimrod
+# ----------------------------------------------------------------------
+
+RewriteEngine On
+
+# 1. NETTE URL'S: Haal .html van de URL af (bezoeker ziet /overmij in plaats van /overmij.html)
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^([^\.]+)$ $1.html [NC,L]
+
+# 2. 404 PAGINA: Verwijs typefouten automatisch door naar jouw eigen foutpagina
+ErrorDocument 404 /404.html

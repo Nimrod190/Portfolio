@@ -137,19 +137,6 @@ article img {
   margin: 10px auto;
 }
 
-.sitemap-list {
-  line-height: 2;
-  margin-top: 20px;
-}
-.sitemap-list a {
-  color: #2e78a5;
-  font-weight: bold;
-  text-decoration: none;
-}
-.sitemap-list a:hover {
-  text-decoration: underline;
-}
-
 /* Responsive */
 @media (min-width: 768px) {
   .articles {
