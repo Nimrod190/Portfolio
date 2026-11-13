@@ -1,0 +1,773 @@
+{
+  "app": "flowcharts-leren",
+  "versie": 1,
+  "naam": "Nimrod",
+  "xp": 1370,
+  "aangemaakt": "2026-10-13",
+  "laatstBezocht": "2026-11-13",
+  "huidig": null,
+  "blokken": {
+    "m1-b1": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 1,
+      "besteScore": 2,
+      "opdrachtGoed": true,
+      "uitdagingGedaan": true,
+      "mislukt": false,
+      "checklist": [],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m1-b2": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 1,
+      "besteScore": 2,
+      "opdrachtGoed": true,
+      "uitdagingGedaan": true,
+      "mislukt": false,
+      "checklist": [],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m1-b3": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 1,
+      "besteScore": 2,
+      "opdrachtGoed": true,
+      "uitdagingGedaan": true,
+      "mislukt": false,
+      "checklist": [],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m1-b4": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 2,
+      "besteScore": 3,
+      "opdrachtGoed": true,
+      "uitdagingGedaan": true,
+      "mislukt": true,
+      "checklist": [],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m1-b5": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 1,
+      "besteScore": 3,
+      "opdrachtGoed": true,
+      "uitdagingGedaan": true,
+      "mislukt": false,
+      "checklist": [],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m1-b6": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 1,
+      "besteScore": 3,
+      "opdrachtGoed": true,
+      "uitdagingGedaan": true,
+      "mislukt": false,
+      "checklist": [],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m1-b7": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 1,
+      "besteScore": 3,
+      "opdrachtGoed": true,
+      "uitdagingGedaan": true,
+      "mislukt": false,
+      "checklist": [],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m1-b8": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 2,
+      "besteScore": 2,
+      "opdrachtGoed": true,
+      "uitdagingGedaan": true,
+      "mislukt": false,
+      "checklist": [],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m1-b9": {
+      "status": "af",
+      "stap": 5,
+      "verst": 5,
+      "pogingen": 0,
+      "besteScore": 0,
+      "opdrachtGoed": false,
+      "uitdagingGedaan": false,
+      "mislukt": false,
+      "checklist": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "taken": [],
+      "oefeningen": {
+        "bouw-rekenmachine": true
+      }
+    },
+    "m2-b1": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 1,
+      "besteScore": 2,
+      "opdrachtGoed": true,
+      "uitdagingGedaan": true,
+      "mislukt": false,
+      "checklist": [],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m2-b2": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 1,
+      "besteScore": 3,
+      "opdrachtGoed": true,
+      "uitdagingGedaan": true,
+      "mislukt": false,
+      "checklist": [],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m2-b3": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 1,
+      "besteScore": 2,
+      "opdrachtGoed": true,
+      "uitdagingGedaan": true,
+      "mislukt": false,
+      "checklist": [],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m2-b4": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 1,
+      "besteScore": 3,
+      "opdrachtGoed": true,
+      "uitdagingGedaan": true,
+      "mislukt": false,
+      "checklist": [],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m2-b5": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 1,
+      "besteScore": 3,
+      "opdrachtGoed": true,
+      "uitdagingGedaan": true,
+      "mislukt": false,
+      "checklist": [],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m2-b6": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 1,
+      "besteScore": 3,
+      "opdrachtGoed": true,
+      "uitdagingGedaan": true,
+      "mislukt": false,
+      "checklist": [],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m2-b7": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 1,
+      "besteScore": 3,
+      "opdrachtGoed": true,
+      "uitdagingGedaan": true,
+      "mislukt": false,
+      "checklist": [],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m2-b8": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 1,
+      "besteScore": 2,
+      "opdrachtGoed": true,
+      "uitdagingGedaan": true,
+      "mislukt": false,
+      "checklist": [],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m2-b9": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 1,
+      "besteScore": 3,
+      "opdrachtGoed": true,
+      "uitdagingGedaan": true,
+      "mislukt": false,
+      "checklist": [],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m2-b10": {
+      "status": "af",
+      "stap": 0,
+      "verst": 4,
+      "pogingen": 0,
+      "besteScore": 0,
+      "opdrachtGoed": false,
+      "uitdagingGedaan": false,
+      "mislukt": false,
+      "checklist": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m3-b1": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 1,
+      "besteScore": 2,
+      "opdrachtGoed": true,
+      "uitdagingGedaan": true,
+      "mislukt": false,
+      "checklist": [],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m3-b2": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 1,
+      "besteScore": 2,
+      "opdrachtGoed": true,
+      "uitdagingGedaan": true,
+      "mislukt": false,
+      "checklist": [],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m3-b3": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 1,
+      "besteScore": 2,
+      "opdrachtGoed": true,
+      "uitdagingGedaan": true,
+      "mislukt": false,
+      "checklist": [],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m3-b4": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 1,
+      "besteScore": 2,
+      "opdrachtGoed": true,
+      "uitdagingGedaan": true,
+      "mislukt": false,
+      "checklist": [],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m3-b5": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 1,
+      "besteScore": 2,
+      "opdrachtGoed": true,
+      "uitdagingGedaan": true,
+      "mislukt": false,
+      "checklist": [],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m3-b6": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 1,
+      "besteScore": 3,
+      "opdrachtGoed": true,
+      "uitdagingGedaan": true,
+      "mislukt": false,
+      "checklist": [],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m3-b7": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 1,
+      "besteScore": 3,
+      "opdrachtGoed": true,
+      "uitdagingGedaan": true,
+      "mislukt": false,
+      "checklist": [],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m3-b8": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 1,
+      "besteScore": 2,
+      "opdrachtGoed": true,
+      "uitdagingGedaan": true,
+      "mislukt": false,
+      "checklist": [],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m3-b9": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 1,
+      "besteScore": 2,
+      "opdrachtGoed": true,
+      "uitdagingGedaan": true,
+      "mislukt": false,
+      "checklist": [],
+      "taken": [],
+      "oefeningen": {}
+    },
+    "m3-b10": {
+      "status": "af",
+      "stap": 0,
+      "verst": 5,
+      "pogingen": 0,
+      "besteScore": 0,
+      "opdrachtGoed": false,
+      "uitdagingGedaan": false,
+      "mislukt": false,
+      "checklist": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "taken": [],
+      "oefeningen": {}
+    }
+  },
+  "eindbazen": {
+    "m1": {
+      "gehaald": true,
+      "beste": 8,
+      "pogingen": 1
+    },
+    "m2": {
+      "gehaald": true,
+      "beste": 8,
+      "pogingen": 1
+    },
+    "m3": {
+      "gehaald": true,
+      "beste": 7,
+      "pogingen": 1
+    }
+  },
+  "toetsen": {},
+  "herhaling": {
+    "m1-b1-t3": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m1-b1-t2": {
+      "doos": 2,
+      "volgende": "2026-11-14"
+    },
+    "m1-b1-t1": {
+      "doos": 2,
+      "volgende": "2026-11-14"
+    },
+    "m1-b2-t1": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m1-b2-t3": {
+      "doos": 2,
+      "volgende": "2026-11-14"
+    },
+    "m1-b2-t2": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m1-b3-t1": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m1-b3-t2": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m1-b3-t3": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m1-b4-t3": {
+      "doos": 3,
+      "volgende": "2026-11-16"
+    },
+    "m1-b4-t1": {
+      "doos": 3,
+      "volgende": "2026-11-16"
+    },
+    "m1-b4-t2": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m1-b5-t3": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m1-b5-t2": {
+      "doos": 2,
+      "volgende": "2026-11-14"
+    },
+    "m1-b5-t1": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m1-b6-t3": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m1-b6-t2": {
+      "doos": 2,
+      "volgende": "2026-11-14"
+    },
+    "m1-b6-t1": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m1-b7-t3": {
+      "doos": 2,
+      "volgende": "2026-11-14"
+    },
+    "m1-b7-t2": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m1-b7-t1": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m1-b8-t2": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m1-b8-t1": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m1-b8-t3": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m2-b1-t2": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m2-b1-t3": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m2-b1-t1": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m2-b2-t1": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m2-b2-t3": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m2-b2-t2": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m2-b3-t2": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m2-b3-t1": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m2-b3-t3": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m2-b4-t1": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m2-b4-t2": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m2-b4-t3": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m2-b5-t3": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m2-b5-t1": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m2-b5-t2": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m2-b6-t2": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m2-b6-t3": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m2-b6-t1": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m2-b7-t1": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m2-b7-t3": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m2-b7-t2": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m2-b8-t3": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m2-b8-t2": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m2-b8-t1": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m2-b9-t1": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m2-b9-t3": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m2-b9-t2": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m3-b1-t1": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m3-b1-t2": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m3-b1-t3": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m3-b2-t1": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m3-b2-t2": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m3-b2-t3": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m3-b3-t2": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m3-b3-t3": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m3-b3-t1": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m3-b4-t1": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m3-b4-t3": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m3-b4-t2": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m3-b5-t3": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m3-b5-t2": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m3-b5-t1": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m3-b6-t1": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m3-b6-t3": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m3-b6-t2": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m3-b7-t2": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m3-b7-t3": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m3-b7-t1": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m3-b8-t3": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m3-b8-t2": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m3-b8-t1": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    },
+    "m3-b9-t2": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m3-b9-t1": {
+      "doos": 2,
+      "volgende": "2026-11-15"
+    },
+    "m3-b9-t3": {
+      "doos": 1,
+      "volgende": "2026-11-14"
+    }
+  },
+  "stats": {
+    "perfecteTests": 12,
+    "opfrisGoed": 23,
+    "doorzetter": 1
+  },
+  "streak": {
+    "huidig": 2,
+    "langste": 2,
+    "laatsteDag": "2026-11-13"
+  },
+  "dag": {
+    "datum": "2026-11-13",
+    "blokken": 20,
+    "doelBeloond": true
+  },
+  "badges": {
+    "eerste-stap": "2026-10-13",
+    "foutloos": "2026-10-13",
+    "doorzetter": "2026-10-13",
+    "op-dreef": "2026-10-13",
+    "basisbouwer": "2026-11-12",
+    "eindbaas": "2026-11-12",
+    "halverwege": "2026-11-13",
+    "scherpschutter": "2026-11-13",
+    "datadenker": "2026-11-13",
+    "flowmaster": "2026-11-13",
+    "opfrisser": "2026-11-13"
+  }
+}
